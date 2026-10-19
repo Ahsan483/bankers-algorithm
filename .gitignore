@@ -1,0 +1,3 @@
+bankers
+*.o
+out.txt
